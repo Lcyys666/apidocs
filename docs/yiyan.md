@@ -71,3 +71,5 @@ GET https://api.lcy-ys.top/api/yiyan
 
   * 确保请求的域名与实际部署的域名一致。
   * 如果需要频繁调用，请注意控制请求频率，避免对服务器造成过大压力。
+
+[在 GitHub 上编辑此页](https://github.com/Lcyys666/apidocs/blob/main/docs/yiyan.md)
